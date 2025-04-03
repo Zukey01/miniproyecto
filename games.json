@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "release_date": "2017-03-03",
+      "rating": 4.9,
+      "platforms": ["Nintendo Switch", "Wii U"],
+      "image": "https://example.com/zelda.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Minecraft",
+      "release_date": "2011-11-18",
+      "rating": 4.8,
+      "platforms": ["PC", "Xbox", "PlayStation", "Mobile"],
+      "image": "https://example.com/minecraft.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Elden Ring",
+      "release_date": "2022-02-25",
+      "rating": 4.7,
+      "platforms": ["PC", "PlayStation", "Xbox"],
+      "image": "https://example.com/eldenring.jpg"
+    },
+    {
+      "id": 4,
+      "name": "God of War: Ragnarok",
+      "release_date": "2022-11-09",
+      "rating": 4.9,
+      "platforms": ["PlayStation 5", "PlayStation 4"],
+      "image": "https://example.com/godofwar.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hollow Knight",
+      "release_date": "2017-02-24",
+      "rating": 4.6,
+      "platforms": ["PC", "Nintendo Switch", "Xbox", "PlayStation"],
+      "image": "https://example.com/hollowknight.jpg"
+    }
+  ]
+  
